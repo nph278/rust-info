@@ -2,6 +2,11 @@
 name = "rust-info"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+license_file = "LICENSE"
+repository = "https://github.com/nph278/rust-info/tree/main"
+homepage = "https://github.com/nph278/rust-info/tree/main"
+description = "A short command-line tool to get info about a rust project."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
