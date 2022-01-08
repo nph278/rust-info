@@ -75,7 +75,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-info"
+name = "rust-information"
 version = "0.1.0"
 dependencies = [
  "cargo_toml",
